@@ -6,7 +6,7 @@ var Config = {
     notFoundPage: '',
     theme: 'default',
     showFooterText: true,
-    footerText: ''
+    footerText: 'Blogging by crq'
 }
 
 if (typeof module === 'object') {
